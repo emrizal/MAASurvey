@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 18,
+    "window.zoomLevel": 1,
+    "terminal.integrated.fontSize": 16,
+    "workbench.colorTheme": "Noctis Minimus",
+    "workbench.iconTheme": "vscode-icons",
+    "python.pythonPath": "c:\\Users\\Sebelas\\kivy_venv\\Scripts\\python.exe",
+
+
+}
